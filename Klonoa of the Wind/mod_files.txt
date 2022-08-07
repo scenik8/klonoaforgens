@@ -1,1 +1,2 @@
+add Sound/SNG05_CTE.csb
 add mod.ini
